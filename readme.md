@@ -63,3 +63,7 @@
 ## Cheatsheets
 
 - [React](https://reactcheatsheet.com/)
+
+## React native slides
+
+-  https://slides.com/shiroyashagin/decks/react-native
